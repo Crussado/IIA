@@ -1,0 +1,3 @@
+[submodule "SearchPacMan"]
+	path = SearchPacMan
+	url = git@github.com:Crussado/SearchIA.git
